@@ -1,0 +1,445 @@
+﻿  stdafx.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\cameramanager.h(22): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CameraManager.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\cameramanager.cpp(14): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\cameramanager.cpp(15): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  D2Dmanager.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\d2dmanager.cpp(126): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\d2dmanager.cpp(127): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\d2dmanager.cpp(128): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\d2dmanager.cpp(129): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ImageManager.cpp
+  Object.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\object.cpp(28): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\object.cpp(29): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\object.cpp(103): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\object.cpp(104): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\object.cpp(131): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\object.cpp(132): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+  action.cpp
+  animation.cpp
+  bird.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bird.cpp(156): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bird.cpp(171): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bird.cpp(172): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bird.cpp(191): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bird.cpp(197): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bird.cpp(247): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bird.cpp(248): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bird.cpp(259): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bullets.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(79): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(78): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(94): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(93): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(158): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(165): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(164): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(188): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(187): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(337): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(365): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(389): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(392): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(408): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(415): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(414): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(443): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(442): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(564): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(571): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(570): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(597): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(596): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(651): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(654): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(720): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(719): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(806): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(816): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\bullets.cpp(819): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  collision.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(21): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(86): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(88): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(95): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(96): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(97): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(107): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(109): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(117): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(118): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(119): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(125): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(127): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(135): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(136): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(137): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(144): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(146): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(160): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(162): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(175): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(177): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(204): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(205): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(209): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(210): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(215): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(223): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(231): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(233): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(241): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(246): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(248): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(256): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(268): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(270): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(278): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(284): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(286): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(299): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(301): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(327): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(329): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(330): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(331): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(348): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(356): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(360): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(366): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(370): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(374): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(377): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(385): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(391): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(394): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(402): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(420): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(422): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(429): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(443): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(445): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(490): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(492): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(542): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(544): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(551): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(556): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(558): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(571): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(573): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(608): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(636): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(702): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(725): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(773): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(835): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(847): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(849): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(857): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(869): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(871): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(879): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(890): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(892): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(900): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(937): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(939): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(947): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(956): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(958): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(966): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(975): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(977): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\collision.cpp(985): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  deadState.cpp
+  effect.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\effect.cpp(56): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effectManager.cpp
+  enemy.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\enemy.cpp(19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\enemy.cpp(18): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemyManager.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\enemymanager.cpp(188): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\enemymanager.cpp(189): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\enemymanager.cpp(191): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\enemymanager.cpp(192): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\enemymanager.cpp(194): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  fish.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\fish.cpp(10): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\fish.cpp(9): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\gamenode.cpp(108): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\gamenode.cpp(109): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\gamenode.cpp(118): warning C4060: switch문에 'case' 또는 'default' 레이블이 없습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\gamenode.cpp(100): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\gamenode.cpp(99): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  hitState.cpp
+  idleState.cpp
+  image.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(174): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(175): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(245): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(280): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(279): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(297): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(301): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(309): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(308): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(334): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(335): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(336): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(337): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(343): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(344): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(346): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(352): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(355): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(361): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(362): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(364): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(369): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(372): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(401): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(402): warning C4244: '초기화 중': 'const FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(403): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(404): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(410): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(411): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(413): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(419): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(422): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(428): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(429): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(431): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(436): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\image.cpp(439): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  iniDataManager.cpp
+  item.cpp
+  itemManager.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(153): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(164): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(175): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(350): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(359): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(368): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(377): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(386): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(395): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(404): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(418): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(427): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(436): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(445): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(454): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(463): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(472): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(486): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(495): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(504): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(513): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(522): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(531): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(540): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(554): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(563): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(572): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(581): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(590): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(599): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(608): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(622): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(631): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(640): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(649): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(658): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(667): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(676): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(690): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(699): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(708): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(717): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(726): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(735): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(744): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(753): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(767): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(776): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(785): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(794): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(803): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(812): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(821): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(834): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(842): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(850): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(858): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(866): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(874): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(882): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(892): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(899): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(906): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(951): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(959): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(967): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(975): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(983): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(991): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(999): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1012): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1020): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1028): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1036): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1044): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1052): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1060): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1073): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1081): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1089): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1097): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1105): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1113): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1121): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1134): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1142): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1150): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1158): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1166): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1174): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1182): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1195): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1203): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1211): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1219): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1227): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1235): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1243): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1256): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1264): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1272): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1280): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1288): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1296): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1304): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1312): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1325): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1333): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1341): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1349): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1357): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1365): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1373): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1385): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1392): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1399): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1406): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1413): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1420): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1427): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1436): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1443): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1450): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1474): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1483): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\itemmanager.cpp(1492): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  jumpState.cpp
+  keyAniManager.cpp
+  keyManager.cpp
+  kid.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\kid.cpp(10): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\kid.cpp(9): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  menu.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(147): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(148): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(621): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(625): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(629): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(633): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(675): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(682): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(683): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(690): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(691): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(692): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(737): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(826): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(840): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(847): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(854): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(861): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(868): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(878): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1092): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1095): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1103): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1107): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1116): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1120): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1129): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1133): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1143): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1147): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1157): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1161): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1171): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1175): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1186): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\menu.cpp(1190): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  monkey.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\monkey.cpp(9): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\monkey.cpp(8): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  npc.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\npc.cpp(10): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\npc.cpp(9): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pickupState.cpp
+  plant.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\plant.cpp(12): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\plant.cpp(11): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playGround.cpp
+  runState.cpp
+  sceneManager.cpp
+  soundManager.cpp
+  stage1.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(138): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(145): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(146): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(147): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(149): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(281): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(293): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(294): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(295): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(306): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(310): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(352): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\stage1.cpp(335): warning C4101: 'str_previous' :참조되지 않은 지역 변수입니다.
+  state.cpp
+  timeManager.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\timemanager.cpp(57): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\timemanager.cpp(61): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\timemanager.cpp(65): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  timer.cpp
+  코드를 생성하고 있습니다...
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\inidatamanager.cpp(74): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  컴파일하고 있습니다...
+  title.cpp
+  tree.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\tree.cpp(10): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\tree.cpp(15): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\tree.cpp(14): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  turtle.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\turtle.cpp(9): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\turtle.cpp(8): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  txtData.cpp
+  utils.cpp
+  winMain.cpp
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\winmain.cpp(92): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\hwang-sm\c++ code\project v2017\앙빅 최종본\txtdata.cpp(51): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  windowAPI.vcxproj -> C:\Users\Hwang-SM\C++ Code\Project v2017\앙빅 최종본\x64\Debug\앙빅_팀준포폴.exe
